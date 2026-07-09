@@ -61,6 +61,22 @@ def normalize(entry):
         "consistency": entry.get("consistency"),
         "language": entry.get("language"),
     }
+def fetch_recent_results(limit=FETCH_LIMIT):
+    try:
+        resp = requests.get(
+            f"{API_BASE}/results",
+            headers=HEADERS,
+            params={"limit": limit},
+            timeout=30,
+        )
+        resp.raise_for_status()
+    except requests.exceptions.HTTPError as e:
+        print(f"API Error: Status {resp.status_code}")
+        print(f"Response: {resp.text}")
+        raise
+    
+    body = resp.json()
+    return body.get("data", body) if isinstance(body, dict) else body  
 
 
 def main():
