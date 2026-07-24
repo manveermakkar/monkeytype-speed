@@ -1388,5 +1388,35 @@
     "rawWpm": 73.6,
     "timestamp": 1784833790000,
     "wpm": 73.6
+  },
+  {
+    "accuracy": 97.24,
+    "consistency": 76.31,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 114.32,
+    "timestamp": 1784839626000,
+    "wpm": 108.73
+  },
+  {
+    "accuracy": 96.26,
+    "consistency": 79.61,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 81.55,
+    "timestamp": 1784842173000,
+    "wpm": 81.55
+  },
+  {
+    "accuracy": 96.8,
+    "consistency": 71.72,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 99.93,
+    "timestamp": 1784842189000,
+    "wpm": 90.34
   }
 ]
