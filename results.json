@@ -1788,5 +1788,45 @@
     "rawWpm": 98.33,
     "timestamp": 1786713919000,
     "wpm": 92.74
+  },
+  {
+    "accuracy": 96.38,
+    "consistency": 66.99,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 108.73,
+    "timestamp": 1786894701000,
+    "wpm": 96.74
+  },
+  {
+    "accuracy": 90.58,
+    "consistency": 82.61,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 109.6,
+    "timestamp": 1786894717000,
+    "wpm": 92
+  },
+  {
+    "accuracy": 90.08,
+    "consistency": 70.6,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 99.2,
+    "timestamp": 1786894734000,
+    "wpm": 89.6
+  },
+  {
+    "accuracy": 89.26,
+    "consistency": 78.54,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 92.8,
+    "timestamp": 1786903394000,
+    "wpm": 82.4
   }
 ]
