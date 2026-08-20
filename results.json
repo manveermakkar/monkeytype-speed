@@ -1888,5 +1888,65 @@
     "rawWpm": 86.4,
     "timestamp": 1787126624000,
     "wpm": 81.6
+  },
+  {
+    "accuracy": 95.04,
+    "consistency": 71.51,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 111.13,
+    "timestamp": 1787208971000,
+    "wpm": 101.53
+  },
+  {
+    "accuracy": 88.28,
+    "consistency": 62.95,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 99.93,
+    "timestamp": 1787208988000,
+    "wpm": 83.14
+  },
+  {
+    "accuracy": 91.37,
+    "consistency": 64.25,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 103.86,
+    "timestamp": 1787243385000,
+    "wpm": 99.07
+  },
+  {
+    "accuracy": 87.77,
+    "consistency": 68.61,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 108.8,
+    "timestamp": 1787243535000,
+    "wpm": 76.8
+  },
+  {
+    "accuracy": 94.85,
+    "consistency": 78.51,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 106.4,
+    "timestamp": 1787243551000,
+    "wpm": 97.6
+  },
+  {
+    "accuracy": 91.85,
+    "consistency": 72.19,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 106.4,
+    "timestamp": 1787244825000,
+    "wpm": 84.8
   }
 ]
