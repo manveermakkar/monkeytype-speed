@@ -2868,5 +2868,15 @@
     "rawWpm": 102.33,
     "timestamp": 1790167734000,
     "wpm": 102.33
+  },
+  {
+    "accuracy": 96.82,
+    "consistency": 82.26,
+    "language": "english_1k",
+    "mode": "time",
+    "mode2": "15",
+    "rawWpm": 124.72,
+    "timestamp": 1790925600000,
+    "wpm": 111.93
   }
 ]
